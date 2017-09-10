@@ -1,0 +1,30 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">@color/colorButtonNormal</item>
+    </style>
+    <style name="text">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:layout_marginTop">@dimen/marginMedium</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">4dp</item>
+    </style>
+    <style name="buttons">
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:layout_marginBottom">@dimen/marginSmall</item>
+        <item name="android:layout_marginLeft">@dimen/marginLarge</item>
+        <item name="android:layout_marginRight">@dimen/marginLarge</item>
+    </style>
+    <style name="score">
+        <item name="android:textSize">56sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_marginTop">@dimen/marginMedium</item>
+        <item name="android:layout_marginBottom">@dimen/marginSmall</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">4dp</item>
+    </style>
+</resources>

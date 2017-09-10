@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Briscola!</string>
+    <string name="asso">ASSO</string>
+    <string name="tre">TRE</string>
+    <string name="re">RE</string>
+    <string name="regina">REGINA</string>
+    <string name="fante">FANTE</string>
+    <string name="reset">RESET</string>
+</resources>
